@@ -4,27 +4,29 @@ Welcome to the Python Algorithms and Data Structures repository! This repository
 
 ## Table of Contents
 
-### 1. Arrays and Strings
-- Reverse a string
-- Check if a string is a palindrome
-- Find the largest/smallest element in an array
-- Implement the two-pointer technique for finding a pair that sums to a target
-- Rotate an array by `k` elements
-- Find the intersection of two arrays
-- Remove duplicates from a sorted array
-- Maximum subarray sum (Kadane’s algorithm)
-- Move all zeros to the end of the array
-- Merge two sorted arrays
-- Find the majority element in an array
-- Search for an element in a sorted rotated array
-- Find the missing number in an array of size `n`
-- Find the longest common prefix of an array of strings
-- Check if two strings are anagrams
-- Longest substring without repeating characters
-- Longest palindromic substring
-- Implement a basic string compression algorithm
-- Find all permutations of a string
-- Check if one string is a rotation of another
+### Arrays and Strings
+
+- [Reverse a string](arrays-strings/reverse_string.py) 
+- [Check if a string is a palindrome](arrays-strings/check_palindrome.py) 
+- [Find the largest/smallest element in an array](arrays-strings/largest_smallest_array_element.py) 
+- [Implement the two-pointer technique for finding a pair that sums to a target](arrays-strings/two_pointer_find_pair_sum.py) 
+- [Rotate an array by k elements](arrays-strings/rotating_array.py) 
+- [Find the intersection of two arrays](arrays-strings/intersection_two_arrays.py) 
+- [Remove duplicates from a sorted array](arrays-strings/remove_duplicates_from_sorted_array.py) 
+- [Maximum subarray sum (Kadane’s algorithm)](arrays-strings/maximum_subarray_sum_kadane.py) 
+- [Move all zeros to the end of the array](arrays-strings/move_zeros_to_the_end.py) 
+- [Merge two sorted arrays](arrays-strings/merge_two_sorted_arrays.py) 
+- [Find the majority element in an array](arrays-strings/find_majority_element.py) 
+- [Search for an element in a sorted rotated array](arrays-strings/search_in_sorted_rotated_array.py) 
+- [Find the missing number in an array of size n](arrays-strings/find_missing_number.py) 
+- [Find the longest common prefix of an array of strings](arrays-strings/longest_common_prefix.py) 
+- [Check if two strings are anagrams](arrays-strings/check_anagrams.py) 
+- [Longest substring without repeating characters](arrays-strings/longest_substring_without_repeating.py) 
+- [Longest palindromic substring](arrays-strings/longest_palindromic_substring.py) 
+- [Implement a basic string compression algorithm](arrays-strings/basic_string_compression.py) 
+- [Find all permutations of a string](arrays-strings/find_permutations.py) 
+- [Check if one string is a rotation of another](arrays-strings/check_string_rotation.py) 
+
 
 ### 2. Linked Lists
 - Reverse a linked list
