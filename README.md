@@ -1,6 +1,6 @@
 # Python Algorithms and Data Structures
 
-Welcome to the Python Algorithms and Data Structures repository! This repository contains a collection of Python programs that implement various data structures and algorithms, covering fundamental topics such as arrays, strings, linked lists, stacks, queues, trees, graphs, and dynamic programming. Each program is designed to help you learn and apply key concepts in Python.
+Welcome to the Python Algorithms and Data Structures repository! This repository contains a collection of Python programs that implement various data structures and algorithms, covering fundamental topics such as arrays, strings, linked lists, stacks, queues, trees, graphs, and dynamic programming.
 
 ## Table of Contents
 
