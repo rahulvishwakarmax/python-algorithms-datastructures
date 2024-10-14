@@ -28,24 +28,26 @@ Welcome to the Python Algorithms and Data Structures repository! This repository
 - [Check if one string is a rotation of another](arrays-strings/check_string_rotation.py) 
 
 
-### 2. Linked Lists
-- Reverse a linked list
-- Detect a cycle in a linked list (Floyd’s cycle detection)
-- Merge two sorted linked lists
-- Remove the nth node from the end of a linked list
-- Find the middle of a linked list
-- Check if a linked list is a palindrome
-- Flatten a multilevel doubly linked list
-- Add two numbers represented by linked lists
-- Rotate a linked list
-- Remove duplicates from an unsorted linked list
-- Partition a linked list around a value
-- Merge K sorted linked lists
-- Intersection of two linked lists
-- Find the starting point of the loop in a linked list
-- Copy a linked list with random pointers
+### Linked Lists
 
-### 3. Stacks and Queues
+- [Reverse a linked list](linked-lists/reverse_linked_list.py) 
+- [Detect a cycle in a linked list (Floyd’s cycle detection)](linked-lists/detect_cycle_linked_list.py) 
+- [Merge two sorted linked lists](linked-lists/merge_sorted_linked_lists.py) 
+- [Remove the nth node from the end of a linked list](linked-lists/remove_nth_node_from_end.py) 
+- [Find the middle of a linked list](linked-lists/find_middle_linked_list.py) 
+- [Check if a linked list is a palindrome](linked-lists/check_palindrome_linked_list.py) 
+- [Flatten a multilevel doubly linked list](linked-lists/flatten_multilevel_doubly_linked_list.py) 
+- [Add two numbers represented by linked lists](linked-lists/add_two_numbers_linked_lists.py) 
+- [Rotate a linked list](linked-lists/rotate_linked_list.py) 
+- [Remove duplicates from an unsorted linked list](linked-lists/remove_duplicates_unsorted_linked_list.py) 
+- [Partition a linked list around a value](linked-lists/partition_linked_list.py) 
+- [Merge K sorted linked lists](linked-lists/merge_k_sorted_linked_lists.py) 
+- [Intersection of two linked lists](linked-lists/intersection_linked_lists.py) 
+- [Find the starting point of the loop in a linked list](linked-lists/find_loop_start_linked_list.py) 
+- [Copy a linked list with random pointers](linked-lists/copy_linked_list_random_pointers.py) 
+
+
+###  Stacks and Queues
 - Implement a stack using arrays or linked lists
 - Implement a queue using stacks
 - Implement a circular queue
@@ -62,7 +64,7 @@ Welcome to the Python Algorithms and Data Structures repository! This repository
 - Sliding window maximum
 - Implement LRU cache using a queue
 
-### 4. Trees
+### Trees
 - Implement a binary search tree (BST)
 - Inorder, preorder, and postorder traversal of a binary tree
 - Find the height of a binary tree
@@ -84,7 +86,7 @@ Welcome to the Python Algorithms and Data Structures repository! This repository
 - Find the maximum path sum in a binary tree
 - Vertical order traversal of a binary tree
 
-### 5. Graphs
+### Graphs
 - Implement graph using adjacency matrix and adjacency list
 - Depth-First Search (DFS) of a graph
 - Breadth-First Search (BFS) of a graph
@@ -106,7 +108,7 @@ Welcome to the Python Algorithms and Data Structures repository! This repository
 - Alien dictionary problem (topological sort)
 - Check if there is a path between two vertices in a directed graph
 
-### 6. Dynamic Programming
+### Dynamic Programming
 - Fibonacci sequence (recursive, iterative, and memoized)
 - Coin change problem
 - 0/1 Knapsack problem
